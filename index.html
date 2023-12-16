@@ -107,7 +107,6 @@
     ></script>
     <script src="assets/js/header.js"></script>
     <script src="assets/js/footer.js"></script>
-    <script src="assets/js/navigation.js"></script>
     <link
       rel="stylesheet"
       id="wp-block-library-css"
@@ -1203,5 +1202,7 @@
       type="text/css"
       media="all"
     />
+    <!-- load navigation last otherwise 'site-navigation' doesn't exist yet (created in header.js) -->
+    <script src="assets/js/navigation.js"></script>
   </body>
 </html>
