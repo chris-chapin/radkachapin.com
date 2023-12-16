@@ -21,7 +21,7 @@ class Header extends HTMLElement {
       <nav id="site-navigation" class="main-navigation" role="navigation">
         <a href="https://radkachapin.com/">
           <img
-            src="https://radkachapin.com/wp-content/uploads/2016/05/cropped-combined-banner-2.jpg"
+            src="../images/banner.jpg"
             align="center"
             class="header-image"
             width="379"
