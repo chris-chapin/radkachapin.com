@@ -21,7 +21,7 @@ class Header extends HTMLElement {
       <nav id="site-navigation" class="main-navigation" role="navigation">
         <a href="https://radkachapin.com/">
           <img
-            src="../images/banner.jpg"
+            src="../assets/images/banner.jpg"
             align="center"
             class="header-image"
             width="379"
