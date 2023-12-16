@@ -1,0 +1,52 @@
+/*
+Theme Name: Twenty Twelve Child
+Theme URI: http://radkachapin.com/themes/twentytwelve-child/
+Author: Chris Chapin
+Author URI: http://radkachapin.com/
+Template: twentytwelve
+Description: Child theme for the Twenty Twelve theme from Wordpress
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, gray, white, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: twentytwelve-child
+*/
+
+/* Header */
+.site-header {
+  padding: 0;
+  margin-top: -23px;
+}
+
+/* Footer */
+footer[role="contentinfo"] {
+  border-top: 0px solid #ededed;
+  clear: both;
+  font-size: 12px;
+  font-size: 0.857142857rem;
+  line-height: 2;
+  max-width: 960px;
+  max-width: 68.571428571rem;
+  margin-top: -44px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+
+footer.entry-meta {
+  margin-top: 0px;
+  font-size: 13px;
+  font-size: 0.928571429rem;
+  line-height: 1.846153846;
+  color: #757575;
+}
+
+.site-content article {
+  border-bottom: 4px double #ededed;
+  margin-bottom: 24px;
+  padding-bottom: 0px;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
